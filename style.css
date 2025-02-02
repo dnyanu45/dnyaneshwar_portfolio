@@ -11,7 +11,9 @@ html {
     scroll-behavior: smooth;
     font-size: 62.5%;
 }
-
+.myself-img{
+    display: none;
+}
 img {
     width: 100%;
     display: block;
@@ -75,13 +77,13 @@ img {
 .home-content h3 {
     font-size: 2rem;
     margin-bottom: 2rem;
-    color: #333;
+    color: #ffffff;
 }
 
 .home-content p {
     max-width: 500px;
     font-size: 1.6rem;
-    color: #555;
+    color: #ffefef;
 }
 
 .home-content .btn-box {
